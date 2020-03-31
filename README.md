@@ -1,7 +1,5 @@
 # site-4D
 
-Um site sobre a teoria da quarta dimensão
-
 <html>
     <head>
         <meta charset="utf-8"/>
